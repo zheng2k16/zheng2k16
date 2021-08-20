@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**zheng2k16/zheng2k16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi I'm zheng2k16 👋
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+- We dont wanna suffer again&again
